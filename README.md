@@ -6,7 +6,7 @@ A high-fidelity AI Product Management portfolio project showing how an enterpris
 
 ## Why this project exists
 
-Most AI PM portfolios are generic chatbots. This project is designed to show senior product judgment: applied AI, operational complexity, measurable business impact, human-in-the-loop design, and enterprise adoption thinking.
+This project is designed to show senior product judgment: applied AI, operational complexity, measurable business impact, human-in-the-loop design, and enterprise adoption thinking.
 
 ## Product thesis
 
