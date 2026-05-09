@@ -1,0 +1,22 @@
+{
+  "orders_at_risk": 1284,
+  "otif": 0.968,
+  "inventory_exposure": 3700000,
+  "cost_per_order": 8.42,
+  "incidents": [
+    {
+      "id": "INC-1027",
+      "title": "Northeast fulfillment delay risk",
+      "severity": "high",
+      "estimated_revenue_protected": 184000,
+      "recommended_action": "Re-route premium orders to Columbus DC for 72 hours"
+    },
+    {
+      "id": "INC-1028",
+      "title": "Lavender refill bundle stockout risk",
+      "severity": "medium",
+      "estimated_margin_protected": 91000,
+      "recommended_action": "Pull 12K units forward from week 28 PO"
+    }
+  ]
+}
