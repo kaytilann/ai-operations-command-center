@@ -2,10 +2,6 @@
 
 A high-fidelity AI Product Management portfolio project showing how an enterprise operations team could use AI to predict fulfillment risk, explain root causes, simulate business tradeoffs, and coordinate human-in-the-loop decisions.
 
-![Mockup placeholder](figma-export/screen-map.md)
-
-## Why this project exists
-
 This project is designed to show senior product judgment: applied AI, operational complexity, measurable business impact, human-in-the-loop design, and enterprise adoption thinking.
 
 ## Product thesis
